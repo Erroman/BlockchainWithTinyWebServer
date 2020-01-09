@@ -1,0 +1,12 @@
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\BlockChainDemo.Console.exe.config
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\BlockChainDemo.Console.exe
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\BlockChainDemo.Console.pdb
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\BlockChainDemo.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\TinyWebServer.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\BlockChainDemo.pdb
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\obj\Debug\BlockChain.Console.csprojAssemblyReference.cache
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\obj\Debug\BlockChain.Console.csproj.CopyComplete
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\obj\Debug\BlockChainDemo.Console.exe
+C:\Endeavours\CSharp\Blockchain\BlockChain.Console\obj\Debug\BlockChainDemo.Console.pdb

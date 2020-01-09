@@ -1,0 +1,8 @@
+C:\Endeavours\CSharp\Blockchain\BlockChain\bin\Debug\BlockChainDemo.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain\bin\Debug\BlockChainDemo.pdb
+C:\Endeavours\CSharp\Blockchain\BlockChain\bin\Debug\Newtonsoft.Json.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain\bin\Debug\Newtonsoft.Json.xml
+C:\Endeavours\CSharp\Blockchain\BlockChain\obj\Debug\BlockChain.csprojAssemblyReference.cache
+C:\Endeavours\CSharp\Blockchain\BlockChain\obj\Debug\BlockChain.csproj.CopyComplete
+C:\Endeavours\CSharp\Blockchain\BlockChain\obj\Debug\BlockChainDemo.dll
+C:\Endeavours\CSharp\Blockchain\BlockChain\obj\Debug\BlockChainDemo.pdb

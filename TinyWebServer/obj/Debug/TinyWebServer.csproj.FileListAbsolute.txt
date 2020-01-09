@@ -1,0 +1,5 @@
+C:\Endeavours\CSharp\TinyWebServer\TinyWebServer\bin\Debug\TinyWebServer.dll
+C:\Endeavours\CSharp\TinyWebServer\TinyWebServer\bin\Debug\TinyWebServer.pdb
+C:\Endeavours\CSharp\TinyWebServer\TinyWebServer\obj\Debug\TinyWebServer.csprojAssemblyReference.cache
+C:\Endeavours\CSharp\TinyWebServer\TinyWebServer\obj\Debug\TinyWebServer.dll
+C:\Endeavours\CSharp\TinyWebServer\TinyWebServer\obj\Debug\TinyWebServer.pdb
